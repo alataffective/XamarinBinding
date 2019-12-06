@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{1356E39D-28DE-4F16-A5F3-0730619F6E58}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamarinBinding/ViewController.cs">
+    <Files>
+      <File FileName="XamarinBinding/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="BindingsLibrary/ApiDefinition.cs" Line="1" Column="1" />
+      <File FileName="XamarinBinding/ViewController.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XamarinBinding" expanded="True">
+            <Node name="BindingsLibrary" expanded="True">
+              <Node name="NativeReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="XamarinBinding" expanded="True">
+              <Node name="ViewController.cs" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamarinBinding FirstBuild="True" PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BindingsLibrary FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

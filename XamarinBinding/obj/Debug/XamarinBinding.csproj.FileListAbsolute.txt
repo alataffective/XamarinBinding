@@ -1,0 +1,15 @@
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/actool/_PartialAppManifest.items
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/ibtool-manifests/Main.storyboardc
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/XamarinBinding.csprojAssemblyReference.cache
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/bin/Debug/XamarinBinding.exe
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/bin/Debug/XamarinBinding.pdb
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/bin/Debug/BindingsLibrary.dll
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/bin/Debug/BindingsLibrary.pdb
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/XamarinBinding.csproj.CopyComplete
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/XamarinBinding.exe
+/Users/alanfransham/Projects/Experiments/XamarinBinding/XamarinBinding/obj/Debug/XamarinBinding.pdb

@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinBinding", "XamarinBinding\XamarinBinding.csproj", "{1356E39D-28DE-4F16-A5F3-0730619F6E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingsLibrary", "BindingsLibrary\BindingsLibrary.csproj", "{40E423DE-CF20-45C1-BC70-A1AA08482996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1356E39D-28DE-4F16-A5F3-0730619F6E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1356E39D-28DE-4F16-A5F3-0730619F6E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1356E39D-28DE-4F16-A5F3-0730619F6E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1356E39D-28DE-4F16-A5F3-0730619F6E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40E423DE-CF20-45C1-BC70-A1AA08482996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40E423DE-CF20-45C1-BC70-A1AA08482996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40E423DE-CF20-45C1-BC70-A1AA08482996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40E423DE-CF20-45C1-BC70-A1AA08482996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

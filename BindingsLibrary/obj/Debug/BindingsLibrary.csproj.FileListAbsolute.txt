@@ -1,0 +1,4 @@
+/Users/alanfransham/Projects/Experiments/XamarinBinding/BindingsLibrary/bin/Debug/BindingsLibrary.dll
+/Users/alanfransham/Projects/Experiments/XamarinBinding/BindingsLibrary/bin/Debug/BindingsLibrary.pdb
+/Users/alanfransham/Projects/Experiments/XamarinBinding/BindingsLibrary/obj/Debug/BindingsLibrary.dll
+/Users/alanfransham/Projects/Experiments/XamarinBinding/BindingsLibrary/obj/Debug/BindingsLibrary.pdb
